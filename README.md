@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **themanojbachhal@gmail.com**
 
-- Connect with me - **[LinkedIn](www.linkedin.com/in/manojbachhal)**
+- Connect with me - **[LinkedIn](www.linkedin.com/in/manoj-bachhal)**
 
 <br/>
 
@@ -37,8 +37,8 @@
 <h3>📊 Github Stats</h3>
 <br/>
 <p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Ramanpreet4718&theme=dark" /> <br \>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramanpreet4718&show_icons=true&locale=en&theme=dark"/>
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=manojbachhal&theme=dark" /> <br \>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojbachhal&show_icons=true&locale=en&theme=dark"/>
 </p>
 
 <h3 align="center">
