@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 My Portfolio -** -->
 
-<!-- <br/><br/><br/><br/> -->
+<br/><br/><br/><br/>
 
 <div>
     <img width="400" align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="coding"/>
@@ -17,10 +17,8 @@
 - 💬 Ask me about **HTML**,**CSS**,**Javascript**,**React**,**Redux**
 </div>
 
-
-
-    
-<!-- <br/><br/><br/><br/> -->
+   
+<br/><br/><br/><br/>
 
 <!--START_SECTION:waka-->
 <!-- [![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.8%20million%20lines%20of%20code-blue)](https://github.com/manojbachhal)
