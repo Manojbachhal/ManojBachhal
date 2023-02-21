@@ -3,11 +3,22 @@
 
 <h4 align="center" margin="0px">A learner who is looking forward to working in the IT world, Enthusiastic to learn new Technology, wants to learn the industry experience, and gain new skills & technologies with at most dedication for organizational and personal growth</h4>
 
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
+<!-- ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
 
 <!-- - 👨‍💻 My Portfolio -** -->
 
-- 🌱 I’m currently learning **React js.**
+
+- 🌱 I’m currently learning **React js.** -->
+
+<img width="400" align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="coding"/>
+
+- 🌱 I’m currently learning **Node JS,MongoDB and Express**
+
+- 💬 Ask me about **HTML**,**CSS**,**Javascript**,**React**,**Redux**
+
+
+    
+<br/><br/><br/><br/>
 
 <!--START_SECTION:waka-->
 <!-- [![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.8%20million%20lines%20of%20code-blue)](https://github.com/manojbachhal)
@@ -67,8 +78,7 @@
   
 </div>
 <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=manojbachhal&theme=minimal" alt="activitygraph" /> 
-<!-- temp -->
+
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manojbachhal" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=manojbachhal" alt=""/> </p>
