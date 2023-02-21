@@ -8,7 +8,7 @@
 <!-- - 👨‍💻 My Portfolio -** -->
 
 
-- 🌱 I’m currently learning **React js.** -->
+
 
 <img width="400" align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="coding"/>
 
