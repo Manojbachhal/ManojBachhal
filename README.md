@@ -73,7 +73,7 @@
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojbachhal&theme=vue" alt="summarycard"/> </p>
 
 <h3 align="center"> 
-  Visitor count <br>
+  Visitor count <br/>
   <img src="https://profile-counter.glitch.me/manojbachhal/count.svg" />
 </h3>
 <hr />
