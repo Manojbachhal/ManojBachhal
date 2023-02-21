@@ -59,10 +59,16 @@
 
 <h3>📊 Github Stats</h3>
 <br/>
-<p align="center">
+<div>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=manojbachhal&show_icons=true&theme=gradient" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojbachhal&layout=compact" />
+ 
+  
+</div>
+<!-- <p align="center">
    <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=manojbachhal&theme=dark" /> <br \>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojbachhal&show_icons=true&locale=en&theme=dark"/>
-</p>
+</p> -->
 
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
