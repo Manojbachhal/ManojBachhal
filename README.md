@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 My Portfolio -** -->
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 <div>
     <img width="400" align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="coding"/>
