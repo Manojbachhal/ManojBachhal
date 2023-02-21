@@ -65,10 +65,13 @@
  
   
 </div>
-<!-- <p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=manojbachhal&theme=dark" /> <br \>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojbachhal&show_icons=true&locale=en&theme=dark"/>
-</p> -->
+<br />
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=shivraj32644&theme=minimal" alt="activitygraph" />  -->
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manojbachhal" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=manojbachhal" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojbachhal&theme=vue" alt="summarycard"/> </p>
+<hr />
 
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
