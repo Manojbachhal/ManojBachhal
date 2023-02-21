@@ -9,9 +9,10 @@
 
 - 🌱 I’m currently learning **React js.**
 
-- 📫 How to reach me **themanojbachhal@gmail.com**
-
-- Connect with me - **[LinkedIn](www.linkedin.com/in/manoj-bachhal)**
+<!--START_SECTION:waka-->
+<!-- [![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.8%20million%20lines%20of%20code-blue)](https://github.com/manojbachhal)
+[![wakatime](https://wakatime.com/badge/user/93304a80-1701-43cc-8d7e-2edf43f97216.svg)](https://wakatime.com/@93304a80-1701-43cc-8d7e-2edf43f97216) -->
+<!--END_SECTION:waka-->
 
 <br/>
 
@@ -66,7 +67,8 @@
   
 </div>
 <br />
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=shivraj32644&theme=minimal" alt="activitygraph" />  -->
+<img src="https://activity-graph.herokuapp.com/graph?username=manojbachhal&theme=minimal" alt="activitygraph" /> 
+<!-- temp -->
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manojbachhal" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=manojbachhal" alt=""/> </p>
