@@ -60,7 +60,7 @@
 <h3>📊 Github Stats</h3>
 <br/>
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=manojbachhal&show_icons=true&theme=gradient" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=manojbachhal&show_icons=true&theme=dark" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojbachhal&layout=compact" />
  
   
