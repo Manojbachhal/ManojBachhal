@@ -71,14 +71,16 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manojbachhal" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=manojbachhal" alt=""/> </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojbachhal&theme=vue" alt="summarycard"/> </p>
-<hr />
-
-<h3 align="center">
- Show some ❤️ by starring some of the repositories!
-</h3>
-<br>
 
 <h3 align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/manojbachhal/count.svg" />
 </h3>
+<hr />
+<br>
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+
+
+
