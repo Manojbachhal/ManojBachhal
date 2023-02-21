@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Manoj Kumar <img src="https://media4.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif?cid=ecf05e47gbvml5pmyegczcp6v6xvxydf2d3f66uu2hylymx7&rid=giphy.gif&ct=g" width="25px"> </h1>
-<h2 align="center">Currently Learning Full-Stack Web Development from Masai School </h2>
+
 
 <h4 align="center" margin="0px">A learner who is looking forward to working in the IT world, Enthusiastic to learn new Technology, wants to learn the industry experience, and gain new skills & technologies with at most dedication for organizational and personal growth</h4>
 
@@ -15,24 +15,20 @@
 
 <br/>
 
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
+<h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
 
-<p>
-   <img src='https://github-profile-trophy.vercel.app/?username=manojbachhal' alt='' width='100%'/>
-
-<a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"/> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=redux&logoColor=007acc" alt="Redux"/> </a> &nbsp;
-
-<a href="#"> <img src="https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&labelColor=black&logo=node.js&logoColor=609857" alt="Node JS"/> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=2361DAFB" alt="Express"/> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongoDB&logoColor=white" alt="Mongo DB"/> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white" alt="Netlify"/> </a> &nbsp;
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
+    <img src="https://img.shields.io/badge/java-%234ea94b.svg?style=for-the-badge&logo=java&logoColor=white" alt="mongoDB" />
+  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />
 </p>
 
 <h3>📊 Github Stats</h3>
