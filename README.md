@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Manoj Kumar <img src="https://media4.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif?cid=ecf05e47gbvml5pmyegczcp6v6xvxydf2d3f66uu2hylymx7&rid=giphy.gif&ct=g" width="25px"> </h1>
 
 
-<h4 align="center" margin="0px">A learner who is looking forward to working in the IT world, Enthusiastic to learn new Technology, wants to learn the industry experience, and gain new skills & technologies with at most dedication for organizational and personal growth</h4>
+<h4 align="center" margin="0px">I'm a full stack web developer with experience in developing web applications using various programming languages, frameworks, and libraries. I enjoy building scalable and responsive web applications that are easy to use and provide a great user experience.</h4>
 
 <!-- ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
 
