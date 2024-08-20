@@ -12,9 +12,9 @@
 <div>
     <img width="400" align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="coding"/>
 
-- 🌱 I’m currently learning **Node JS,MongoDB and Express**
+- 🌱  I’m proficient in **Node JS,MongoDB and Express**
 
-- 💬 Ask me about **HTML**,**CSS**,**Javascript**,**React**,**Redux**
+- 💬 Ask me about **MERN STACK**
     
 - 📫 My Portfolio:-https://manojbachhal.github.io/
 </div>
