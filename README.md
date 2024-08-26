@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **MERN STACK**
     
-- 📫 My Portfolio:-https://manoj-bachhal.vercel.app/
+<!--  📫 My Portfolio:-https://manoj-bachhal.vercel.app/ -->
 </div>
 
    
